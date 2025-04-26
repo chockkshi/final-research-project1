@@ -1,14 +1,5 @@
-final-research-project/
-│
-├── README.md              # ➔ project description and instructions
-├── 4_universal_mito_model.xml   # ➔ your model file (upload this!)
-├── Heart_data.tsv          # ➔ your heart-specific data (upload this!)
-├── efflux_method.py        # ➔ your custom Eflux function file (upload this!)
-├── analysis_notebook.ipynb # ➔ your full Jupyter Notebook (the code you gave)
-├── reactiondummy.csv       # ➔ CSV file you generate from reactions
-├── mouse_cardiac_fluxes.svg # ➔ the saved figure
-└── (maybe create /plots, /data folders later)
 
+# Modelling glycine in Cardiac Mitochondria using Flux Balance Analysis
 # 🧬 Cardiac Mitochondrial Model Analysis
 
 This repository contains the analysis of a universal mitochondrial model, customized for mouse cardiac tissue, using constraint-based modeling and flux balance analysis (FBA).
