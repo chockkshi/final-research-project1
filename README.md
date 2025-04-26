@@ -52,6 +52,7 @@ This repository contains the analysis of a universal mitochondrial model, custom
 ## 📱 QR Code to this Repository
 ![QR Code](qr-code.png)
 
+
 _(Scan the code to directly access the repo!)_
 
 ---
