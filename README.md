@@ -32,11 +32,14 @@ This repository contains the analysis of a universal mitochondrial model, custom
 - **Constrain** the model using the Eflux method.
 - **Optimize** for ATP production using Flux Balance Analysis.
 - **Analyze** uptake and secretion patterns.
-- **Explore** how glycine import affects ATP production.
+
 
 ---
 
 ## 🛠️ Future Work
+- **Explore** how glycine import affects ATP production.
+- How does glycine metabolism affect the redox state of mitochondria?.
+- Which metabolic pathways involve glycine in supporting ATP synthesis in cardiac mitochondria?.
 - Compare heart-specific fluxes with other tissues (liver, muscle).
 - Introduce additional omics constraints (proteomics, metabolomics).
 - Test alternative objective functions (biomass production, minimal NADH usage).
@@ -57,5 +60,4 @@ _(Scan the code to directly access the repo!)_
 
 ---
 
-## 📜 How to Run
-#1. Clone the repo:
+
