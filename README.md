@@ -28,13 +28,9 @@ This repository contains the analysis of a universal mitochondrial model, custom
 ---
 
 ## 🛠️ Future Work
-- **Explore** how glycine import affects ATP production.
+- Explore how glycine import affects ATP production.
 - How does glycine metabolism affect the redox state of mitochondria?.
 - Which metabolic pathways involve glycine in supporting ATP synthesis in cardiac mitochondria?.
-- Compare heart-specific fluxes with other tissues (liver, muscle).
-- Introduce additional omics constraints (proteomics, metabolomics).
-- Test alternative objective functions (biomass production, minimal NADH usage).
-- Visualization improvements (flux maps, pathway-specific fluxes).
 
 ---
 
