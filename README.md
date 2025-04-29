@@ -11,11 +11,45 @@ This repository contains the analysis of a universal mitochondrial model, custom
 - `4_universal_mito_model.xml`: SBML model file.
 - `Heart_data.tsv`: Omics data specific to heart tissue.
 - `efflux_method.py`: Custom Python method for applying gene expression constraints (Eflux method).
-- `reactiondummy.csv`: CSV file cataloging all reactions extracted from the model.
+- `reaction.csv`: CSV file cataloging all reactions extracted from the model.
 - `mouse_cardiac_fluxes.svg`: Plot showing predicted import and secretion fluxes.
   
 ---
 
+## Installation
+
+To get started with the Jupyter notebooks and simulation tools, you will need to set up a Python environment with the necessary dependencies. We recommend using **conda** or **pip** for installation.
+
+### Using Conda
+
+```bash
+conda create --name mitomammal python=3.8
+conda activate mitomammal
+conda install jupyter numpy pandas matplotlib cobra
+```
+
+### Using Pip
+
+```bash
+pip install jupyter numpy pandas matplotlib cobra
+```
+
+---
+
+## Usage
+
+Once the environment is set up, you can start Jupyter Notebook by running:
+
+```bash
+jupyter notebook
+```
+
+This will open a local server where you can explore the available notebooks in this repository.
+
+---
+
+
+This will open a local server where you can explore the available notebooks in this repository.
 ## 🚀 Project Summary
 - **Load** mitochondrial metabolic model.
 - **Catalog** all reactions.
