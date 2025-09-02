@@ -66,12 +66,6 @@ This will open a local server where you can explore the available notebooks in t
 
 ---
 
-## 📱 QR Code to this Repository
-![QR Code](GITHUB.png)
 
-
-_(Scan the code to directly access the repo!)_
-
----
 
 
