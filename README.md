@@ -61,13 +61,6 @@ This will open a local server where you can explore the available notebooks in t
 
 ---
 
-## 🛠️ Future Work
-- Explore how glycine import affects ATP production.
-- How does glycine metabolism affect the redox state of mitochondria?.
-- Which metabolic pathways involve glycine in supporting ATP synthesis in cardiac mitochondria?.
-
----
-
 ## 🔗 Repository Link
 [Click here to access the GitHub repository](https://github.com/chockkshi/final-research-project1)
 
